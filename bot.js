@@ -195,7 +195,7 @@ q!alkursi-stop
       });
 
 
-const devs = ["450711003324350485" , "483092158786568203"]
+const devs = ["371060496276783104"]
 
 const adminprefix = "q!";
 client.on('message', message => {
